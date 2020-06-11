@@ -1,14 +1,16 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap'); */
+
 @font-face {
-  font-family: 'Orbitron';
-  font-style: normal;
+  font-family: 'Kelly Slab', cursive;
+  /* font-style: normal; */
   font-weight: 500;
-  src: local('Orbitron-Medium'), url(http://themes.googleusercontent.com/static/fonts/orbitron/v3/VK2oK8L4CJesxwY5dF3zxbrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+  src: url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
 }
 @font-face {
-  font-family: 'Orbitron';
+  font-family: 'Kelly Slab', cursive;
   font-style: normal;
   font-weight: 900;
-  src: local('Orbitron-Black'), url(http://themes.googleusercontent.com/static/fonts/orbitron/v3/FyvTORElv6iWeP2Jf9yG3brIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+  src: url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
 }
 
 html,
