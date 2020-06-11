@@ -1,5 +1,5 @@
 # We come in peace
-A very first try of Dedalus interactive fiction engine:)
+A very first try of [Dedalus](https://github.com/pistacchio/Dedalus) interactive fiction engine:)
 
 See progress [here](https://liketaurus.github.io/IF-Dedalus/story.html)
 
