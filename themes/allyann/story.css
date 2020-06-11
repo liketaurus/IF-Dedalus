@@ -72,7 +72,7 @@ p {
     border-bottom : 2px solid rgba(25, 162, 200, 0.5);
     padding-left  : 40%;
     padding-top   : 30px;
-    font-family   : 'Orbitron';
+    font-family   : 'Kelly Slab';
     font-size     : 34px;
     font-weight   : bold;
     color         : #15ccfa;
@@ -128,7 +128,7 @@ p {
     padding-bottom   : 20px;
 }
 #inventoryHostWrapper h2 {
-    font-family   : 'Orbitron';
+    font-family   : 'Kelly Slab';
     text-shadow   : 0 0 5px #1ff05f;
     color         : #1ff05f;
     font-size     : 18px;
@@ -157,7 +157,7 @@ p {
     margin-left  : 20px;
     padding-left : 10px;
     height       : 40px;
-    font-family  : 'Orbitron';
+    font-family  : 'Kelly Slab';
     text-shadow  : 0 0 5px #1ff05f;
 }
 #undoHost {
