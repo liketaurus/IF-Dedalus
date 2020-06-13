@@ -1,22 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
 
-@font-face {
-  font-family: 'Kelly Slab';
-  font-style :cursive;
-  font-weight: 500;
-  src: url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
-}
-@font-face {
-  font-family: 'Kelly Slab';
-  font-style: cursive;
-  font-weight: 900;
-  src: url('https://fonts.googleapis.com/css2?family=Kelly+Slab&display=swap');
-}
-
 html,
 body {
     font-family             : 'Kelly Slab', cursive;
-    font-size               : 16px;
+    font-size               : 17px;
     color                   : #ccc;
     background              : url(background.jpg) no-repeat center center fixed;
     -webkit-background-size : cover;
@@ -75,7 +62,7 @@ p {
     font-family   : 'Kelly Slab';
     font-size     : 34px;
     font-weight   : bold;
-    color         : #15ccfa;
+    color         : rgb(3, 75, 97);
     text-shadow   : 0 0 10px #12b6df;
     background    : rgba(5, 52, 64, 0.3);
     width         : 100%;
@@ -144,10 +131,10 @@ p {
     bottom      : 0px;
     position    : absolute;
     left        : 50%;
-    margin-left : -185px;
-    top         : 575px;
+    margin-left : -100px;
+    top         : 573px;
     position    : absolute;
-    width       : 350px;
+    width       : 390px;
     height      : 520px;
     color       : #fff;
     font-size   : 0;
@@ -167,3 +154,8 @@ p {
 #resetHost {
     height: 118px !important;
 }
+
+.copyleft {
+    display:inline-block;
+    transform: rotate(180deg);
+  }
